@@ -154,7 +154,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <!-- GitHub Stats Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
   GitHub Stats
 </h2>
 
