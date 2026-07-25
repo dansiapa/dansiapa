@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="./assets/header-animation.svg" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=180&section=header&text=Rangga%20Putra&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20|%20Solution%20Architect%20|%20Consultant&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Badges Row -->
@@ -15,14 +15,7 @@
 <br/>
 
 <!-- About Me Section -->
-<div align="center">
-  <img src="./assets/logo.svg" alt="Logo" width="120"/>
-</div>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />
-  About Me
-</h2>
+<h2 align="center">🧑‍💻 About Me</h2>
 
 ```yaml
 name: Rangga Putra
@@ -52,19 +45,13 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- Featured Projects Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
-  Featured Open Source Projects
-</h2>
+<h2 align="center">🚀 Featured Open Source Projects</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="20"/>
-          Nawala Gateway Platform
-        </h3>
+        <h3 align="center">🔐 Nawala Gateway Platform</h3>
         <div align="center">
           <a href="https://github.com/dansiapa/nawala-gateway-platform" target="_blank">
             <img src="https://img.shields.io/badge/🚀_View_Project-7c3aed?style=for-the-badge"/>
@@ -87,10 +74,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"/>
-          Raksha Security Platform
-        </h3>
+        <h3 align="center">🛡️ Raksha Security Platform</h3>
         <div align="center">
           <a href="https://github.com/dansiapa/raksha-security-platform" target="_blank">
             <img src="https://img.shields.io/badge/🛡️_View_Project-00d4ff?style=for-the-badge"/>
@@ -117,29 +101,11 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 </div>
 
 <br/>
+
 <!-- Key Features -->
 <details>
-<summary><b>🔍 Click to see detailed features</b></summary>
-<br/>
-
-| 🌐 Nawala Gateway | 🛡️ Raksha Security |
-|-------------------|---------------------|
-| 🛡️ Web Application Firewall | 📋 CIS, NIST, PCI-DSS, ISO-27001 |
-| 🔐 Full OAuth2 Authentication | 🤖 ML Anomaly Detection |
-| ⚡ Rate Limiting & Throttling | 🔗 SIEM Integration |
-| 🔍 AI Anomaly Detection | 🌑 Dark Web Monitoring |
-| 🔒 AES-256-GCM Encryption | 🍯 Honeypot System |
-| 📊 Real-time Dashboard | 📱 Multi-channel Alerts |
-
-</details>
-
-<br/>
-
 <!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
-  Tech Stack & Tools
-</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
   
@@ -155,7 +121,6 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
   <h4>🚀 Frameworks</h4>
   <p>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -174,13 +139,8 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
-
-
 <!-- Stats Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" />
-  GitHub Stats
-</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dansiapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" alt="GitHub Stats" height="170"/>
@@ -200,11 +160,15 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
+
+<summary><b>🔍 Click to see detailed features</b></summary>
+<br/>
+
+| 🌐 Nawala Gateway | 🛡️ Raksha Security |
+|-------------------|---------------------|
+| 🛡️ Web Application Firewall | 📋 CIS, NIST, PCI-DSS, ISO-27001 |
 <!-- Weekly Development Breakdown -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" />
-  Weekly Development Breakdown
-</h2>
+<h2 align="center">⌨️ Weekly Development Breakdown</h2>
 
 <div align="center">
 
@@ -221,30 +185,23 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 <br/>
 
-
 <!-- What I Bring Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
-  What I Bring to the Table
-</h2>
+<h2 align="center">💼 What I Bring to the Table</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50"/>
-        <br/><strong>Development</strong><br/>
-        <sub>Building robust backend systems with clean architecture and security-first approach</sub>
+        <h3>🖥️ Development</h3>
+        <p>Building robust backend systems with clean architecture and security-first approach</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50"/>
-        <br/><strong>Solution Design</strong><br/>
-        <sub>Translating complex requirements into scalable enterprise-grade solutions</sub>
+        <h3>💡 Solution Design</h3>
+        <p>Translating complex requirements into scalable enterprise-grade solutions</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="50"/>
-        <br/><strong>Delivery</strong><br/>
-        <sub>End-to-end project delivery from analysis to production deployment</sub>
+        <h3>📦 Delivery</h3>
+        <p>End-to-end project delivery from analysis to production deployment</p>
       </td>
     </tr>
   </table>
@@ -253,10 +210,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Random Dev Quote -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Quote" width="25" height="25" />
-  Random Dev Quote
-</h2>
+<h2 align="center">📜 Random Dev Quote</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -265,10 +219,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Connect Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="25" height="25" />
-  Let's Connect
-</h2>
+<h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
   <a href="https://github.com/dansiapa">
@@ -286,14 +237,19 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 <!-- Footer -->
 <div align="center">
-  <img src="./assets/coding-animation.svg" alt="Coding Animation" width="400"/>
-</div>
-
-<div align="center">
-  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer"/>
 </div>
 
 <div align="center">
   <sub>Part of the <strong>Nawala Ecosystem</strong> — Sanskrit-inspired tools for modern infrastructure</sub>
 </div>
+
+| 🔐 Full OAuth2 Authentication | 🤖 ML Anomaly Detection |
+| ⚡ Rate Limiting & Throttling | 🔗 SIEM Integration |
+| 🔍 AI Anomaly Detection | 🌑 Dark Web Monitoring |
+| 🔒 AES-256-GCM Encryption | 🍯 Honeypot System |
+| 📊 Real-time Dashboard | 📱 Multi-channel Alerts |
+
+</details>
+
+<br/>
