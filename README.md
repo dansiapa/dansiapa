@@ -8,7 +8,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dansiapa&style=for-the-badge&color=7c3aed)
   [![GitHub followers](https://img.shields.io/github/followers/dansiapa?style=for-the-badge&logo=github&color=0f0f23&labelColor=1a1a3e)](https://github.com/dansiapa?tab=followers)
-  ![Status](https://img.shields.io/badge/Open_for_Opportunities-00d4ff?style=for-the-badge&logo=handshake&logoColor=white)
   
 </div>
 
@@ -53,7 +52,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 🔐 Nawala Gateway Platform
 
@@ -80,7 +79,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 [![View Project](https://img.shields.io/badge/📂_View_Repository-7c3aed?style=for-the-badge)](https://github.com/dansiapa/nawala-gateway-platform)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 🛡️ Raksha Security Platform
 
@@ -110,6 +109,13 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 </tr>
 </table>
 </div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
