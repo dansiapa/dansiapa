@@ -8,6 +8,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dansiapa&style=for-the-badge&color=7c3aed)
   [![GitHub followers](https://img.shields.io/github/followers/dansiapa?style=for-the-badge&logo=github&color=0f0f23&labelColor=1a1a3e)](https://github.com/dansiapa?tab=followers)
+  ![Status](https://img.shields.io/badge/Open_for_Opportunities-00d4ff?style=for-the-badge&logo=handshake&logoColor=white)
   
 </div>
 
@@ -20,6 +21,7 @@
 name: Rangga Putra
 role: Software Developer | Solution Architect | Consultant
 location: Indonesia 🇮🇩
+experience: 5+ Years | 20+ Projects | 4 Companies
 
 summary: |
   Passionate about designing and delivering end-to-end software solutions
@@ -168,13 +170,6 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
-
-
-<br/>
-
----
-
-<br/>
 <!-- What I Bring Section -->
 <h2 align="center">💼 What I Bring to the Table</h2>
 
@@ -228,11 +223,15 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 </h2>
 
 <div align="center">
+  <a href="https://dansiapa.github.io/portofolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-7c3aed?style=for-the-badge"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/dansiapa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:dummymailrangga@gmail.com">
+  <a href="mailto:ranggaputra12343@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
