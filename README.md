@@ -14,7 +14,10 @@
 <br/>
 
 <!-- About Me Section -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+  About Me
+</h2>
 
 ```yaml
 name: Rangga Putra
@@ -45,7 +48,10 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- Featured Projects Section -->
-<h2 align="center">🚀 Featured Open Source Projects</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  Featured Open Source Projects
+</h2>
 
 <br/>
 
@@ -117,7 +123,10 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/>
+  Tech Stack & Tools
+</h2>
 
 <br/>
 
@@ -144,7 +153,10 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"/>
+  GitHub Stats
+</h2>
 
 <br/>
 
@@ -177,7 +189,10 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- What I Bring Section -->
-<h2 align="center">💼 What I Bring to the Table</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>
+  What I Bring to the Table
+</h2>
 
 <div align="center">
 <table>
@@ -214,7 +229,10 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- Random Dev Quote -->
-<h2 align="center">💭 Random Dev Quote</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"/>
+  Random Dev Quote
+</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
