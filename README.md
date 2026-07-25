@@ -49,70 +49,65 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <div align="center">
-  <a href="https://github.com/dansiapa/nawala-gateway-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=nawala-gateway-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed" width="400"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dansiapa/raksha-security-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=raksha-security-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed" width="400"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
 ### 🔐 Nawala Gateway Platform
 
+**Enterprise API Gateway & Management Platform**
+
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-| Feature |
-|:-------:|
-| 🛡️ Web Application Firewall (WAF) |
-| 🔐 OAuth2 & JWT Authentication |
-| ⚡ Rate Limiting & Throttling |
-| 🔍 AI-powered Anomaly Detection |
-| 🔒 AES-256-GCM Encryption |
+✨ **Key Features:**
+- 🛡️ Web Application Firewall (WAF)
+- 🔐 OAuth2 & JWT Authentication
+- ⚡ Rate Limiting & Throttling
+- 🔍 AI-powered Anomaly Detection
+- 🔒 AES-256-GCM Encryption
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/📂_View_Repository-7c3aed?style=for-the-badge)](https://github.com/dansiapa/nawala-gateway-platform)
 
 </td>
 <td align="center" width="50%">
 
 ### 🛡️ Raksha Security Platform
 
+**Enterprise Security Monitoring Platform**
+
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-| Feature |
-|:-------:|
-| 📋 Compliance (CIS, NIST, PCI-DSS) |
-| 🤖 ML-powered Threat Detection |
-| 🔗 SIEM Integration |
-| 🌑 Dark Web Monitoring |
-| 🍯 Honeypot & Deception System |
+✨ **Key Features:**
+- 📋 Compliance (CIS, NIST, PCI-DSS)
+- 🤖 ML-powered Threat Detection
+- 🔗 SIEM Integration
+- 🌑 Dark Web Monitoring
+- 🍯 Honeypot & Deception System
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/📂_View_Repository-00d4ff?style=for-the-badge)](https://github.com/dansiapa/raksha-security-platform)
 
 </td>
 </tr>
 </table>
 </div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -145,22 +140,26 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansiapa&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dansiapa&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dansiapa&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dansiapa&theme=tokyonight" width="32%"/>
+</p>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dansiapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansiapa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=dansiapa&theme=tokyonight&hide_border=true&background=1a1b27&ring=7c3aed&fire=f472b6&currStreakLabel=00d4ff" alt="GitHub Streak" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dansiapa&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=f472b6&currStreakLabel=00d4ff" alt="GitHub Streak" width="700"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dansiapa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dansiapa&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d4ff&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -170,24 +169,12 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 
-<!-- Weekly Development Breakdown -->
-<h2 align="center">⌨️ Weekly Development Breakdown</h2>
-
-<div align="center">
-
-```text
-Java         ████████████████░░░░░░░░░   50.00 %
-Rust         ██████████░░░░░░░░░░░░░░░   20.00 %
-Python       ██████░░░░░░░░░░░░░░░░░░░   12.00 %
-TypeScript   ████░░░░░░░░░░░░░░░░░░░░░    8.00 %
-SQL          ███░░░░░░░░░░░░░░░░░░░░░░    6.00 %
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    4.00 %
-```
-
-</div>
 
 <br/>
 
+---
+
+<br/>
 <!-- What I Bring Section -->
 <h2 align="center">💼 What I Bring to the Table</h2>
 
@@ -195,23 +182,33 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <table>
 <tr>
 <td align="center" width="33%">
+  <br/>
   <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/><br/>
-  <strong>Development</strong><br/>
+  <strong>Development</strong><br/><br/>
   <sub>Building robust backend systems with clean architecture and security-first approach</sub>
+  <br/><br/>
 </td>
 <td align="center" width="33%">
+  <br/>
   <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/><br/><br/>
-  <strong>Solution Design</strong><br/>
+  <strong>Solution Design</strong><br/><br/>
   <sub>Translating complex requirements into scalable enterprise-grade solutions</sub>
+  <br/><br/>
 </td>
 <td align="center" width="33%">
+  <br/>
   <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br/><br/>
-  <strong>Delivery</strong><br/>
+  <strong>Delivery</strong><br/><br/>
   <sub>End-to-end project delivery from analysis to production deployment</sub>
+  <br/><br/>
 </td>
 </tr>
 </table>
 </div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -261,3 +258,4 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <div align="center">
   <sub>Part of the <strong>Nawala Ecosystem</strong> — Sanskrit-inspired tools for modern infrastructure</sub>
 </div>
+
