@@ -44,96 +44,111 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <br/>
 
 <!-- Featured Projects Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
-  Featured Open Source Projects
-</h2>
+<h2 align="center">🚀 Featured Open Source Projects</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/dansiapa/nawala-gateway-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=nawala-gateway-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed" width="400"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dansiapa/raksha-security-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=raksha-security-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed" width="400"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🔐 Nawala Gateway Platform</h3>
+### 🔐 Nawala Gateway Platform
 
-<div align="center">
-  <a href="https://github.com/dansiapa/nawala-gateway-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=nawala-gateway-platform&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00d4ff&icon_color=7c3aed"/>
-  </a>
-</div>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-**✨ Key Features:**
-- 🛡️ Web Application Firewall (WAF)
-- 🔐 OAuth2 & JWT Authentication  
-- ⚡ Rate Limiting & Throttling
-- 🔍 AI-powered Anomaly Detection
-- 🔒 AES-256-GCM End-to-End Encryption
+| Feature |
+|:-------:|
+| 🛡️ Web Application Firewall (WAF) |
+| 🔐 OAuth2 & JWT Authentication |
+| ⚡ Rate Limiting & Throttling |
+| 🔍 AI-powered Anomaly Detection |
+| 🔒 AES-256-GCM Encryption |
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">🛡️ Raksha Security Platform</h3>
+### 🛡️ Raksha Security Platform
 
-<div align="center">
-  <a href="https://github.com/dansiapa/raksha-security-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dansiapa&repo=raksha-security-platform&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00d4ff&icon_color=7c3aed"/>
-  </a>
-</div>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**✨ Key Features:**
-- 📋 Compliance (CIS, NIST, PCI-DSS, ISO-27001)
-- 🤖 ML-powered Threat Detection
-- 🔗 SIEM Integration (Splunk/Elastic/Wazuh)
-- 🌑 Dark Web Monitoring
-- 🍯 Honeypot & Deception System
+| Feature |
+|:-------:|
+| 📋 Compliance (CIS, NIST, PCI-DSS) |
+| 🤖 ML-powered Threat Detection |
+| 🔗 SIEM Integration |
+| 🌑 Dark Web Monitoring |
+| 🍯 Honeypot & Deception System |
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/>
-  Tech Stack & Tools
-</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,rust,python,typescript,kotlin&theme=dark" alt="Languages"/>
-  <br/><br/>
+</div>
+<br/>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nextjs,react,nodejs&theme=dark" alt="Frameworks"/>
-  <br/><br/>
+</div>
+<br/>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,kubernetes&theme=dark" alt="Database & DevOps"/>
-  <br/><br/>
+</div>
+<br/>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,nginx&theme=dark" alt="Tools"/>
 </div>
+
+<br/>
+
+---
 
 <br/>
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 
+<br/>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dansiapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=dansiapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" height="180"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dansiapa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansiapa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="180"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dansiapa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansiapa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -144,21 +159,17 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dansiapa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dansiapa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=7c3aed&point=f472b6&area=true&area_color=7c3aed" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-
-
-</td>
-</tr>
-</table>
-</div>
+---
 
 <br/>
+
+
 <!-- Weekly Development Breakdown -->
 <h2 align="center">⌨️ Weekly Development Breakdown</h2>
 
@@ -181,31 +192,25 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <h2 align="center">💼 What I Bring to the Table</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-        <br/><br/>
-        <strong>Development</strong>
-        <br/>
-        <sub>Building robust backend systems with clean architecture and security-first approach</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/>
-        <br/><br/>
-        <strong>Solution Design</strong>
-        <br/>
-        <sub>Translating complex requirements into scalable enterprise-grade solutions</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/>
-        <br/><br/>
-        <strong>Delivery</strong>
-        <br/>
-        <sub>End-to-end project delivery from analysis to production deployment</sub>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/code.png" width="60"/><br/><br/>
+  <strong>Development</strong><br/>
+  <sub>Building robust backend systems with clean architecture and security-first approach</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/><br/><br/>
+  <strong>Solution Design</strong><br/>
+  <sub>Translating complex requirements into scalable enterprise-grade solutions</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/><br/><br/>
+  <strong>Delivery</strong><br/>
+  <sub>End-to-end project delivery from analysis to production deployment</sub>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -256,4 +261,3 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 <div align="center">
   <sub>Part of the <strong>Nawala Ecosystem</strong> — Sanskrit-inspired tools for modern infrastructure</sub>
 </div>
-
