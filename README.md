@@ -58,42 +58,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 <!-- NAWALA Ecosystem -->
 <div align="center">
   <a href="https://github.com/nawala-team">
-    <img src="https://img.shields.io/badge/🏛️_NAWALA_ECOSYSTEM-Sanskrit--inspired_Modern_Infrastructure-blueviolet?style=for-the-badge&labelColor=1a1a3e" alt="NAWALA Ecosystem"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  
-<!-- Sanchala OS Card -->
-<a href="https://github.com/nawala-team/sanchala-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=sanchala-os&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFB300&icon_color=FFB300" />
-</a>
-
-<!-- Nawala Gateway Card -->
-<a href="https://github.com/nawala-team/nawala-gateway-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=nawala-gateway-platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7c3aed&icon_color=7c3aed" />
-</a>
-
-<!-- Raksha Security Card -->
-<a href="https://github.com/nawala-team/raksha-security-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=raksha-security-platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&icon_color=00d4ff" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/nawala-team/sanchala-os">
-    <img src="https://img.shields.io/badge/💻_Sanchala_OS-v1.0_Astra-FFB300?style=flat-square"/>
-  </a>
-  <a href="https://github.com/nawala-team/nawala-gateway-platform">
-    <img src="https://img.shields.io/badge/🔐_Nawala_Gateway-API_Platform-7c3aed?style=flat-square"/>
-  </a>
-  <a href="https://github.com/nawala-team/raksha-security-platform">
-    <img src="https://img.shields.io/badge/🛡️_Raksha_Security-SIEM_Platform-00d4ff?style=flat-square"/>
+    <img src="./assets/nawala-ecosystem.svg" alt="NAWALA Ecosystem" width="100%"/>
   </a>
 </div>
 
