@@ -55,116 +55,46 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
-<!-- NAWALA Ecosystem Banner -->
+<!-- NAWALA Ecosystem -->
+<div align="center">
+  <a href="https://github.com/nawala-team">
+    <img src="https://img.shields.io/badge/🏛️_NAWALA_ECOSYSTEM-Sanskrit--inspired_Modern_Infrastructure-blueviolet?style=for-the-badge&labelColor=1a1a3e" alt="NAWALA Ecosystem"/>
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
   
-```
-╭─────────────────────────────────────────────────────────────────────────╮
-│                                                                         │
-│                        NAWALA ECOSYSTEM                                 │
-│              Sanskrit-inspired Modern Infrastructure                    │
-│                                                                         │
-│    ┌───────────────┐   ┌───────────────┐   ┌───────────────┐           │
-│    │   SANCHALA    │   │    NAWALA     │   │    RAKSHA     │           │
-│    │      OS       │   │    Gateway    │   │   Security    │           │
-│    │     संञ्चल     │   │      नवल      │   │     रक्षा     │           │
-│    └───────────────┘   └───────────────┘   └───────────────┘           │
-│                                                                         │
-╰─────────────────────────────────────────────────────────────────────────╯
-```
+<!-- Sanchala OS Card -->
+<a href="https://github.com/nawala-team/sanchala-os">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=sanchala-os&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFB300&icon_color=FFB300" />
+</a>
 
-[![NAWALA Team](https://img.shields.io/badge/🏢_NAWALA_TEAM-Organization-gold?style=for-the-badge)](https://github.com/nawala-team)
+<!-- Nawala Gateway Card -->
+<a href="https://github.com/nawala-team/nawala-gateway-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=nawala-gateway-platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7c3aed&icon_color=7c3aed" />
+</a>
+
+<!-- Raksha Security Card -->
+<a href="https://github.com/nawala-team/raksha-security-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawala-team&repo=raksha-security-platform&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&icon_color=00d4ff" />
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 💻 Sanchala OS
-
-**v1.0 "Astra" ⚡**
-
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KDE_Plasma_6-1D99F3?style=for-the-badge&logo=kde&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
-✨ **Key Features:**
-- 🎨 macOS-inspired UI/UX
-- 🔒 8-layer Security Architecture
-- 📦 100% Linux Compatible
-- 🔄 Btrfs Snapshots & Recovery
-- 🌐 Sanchala Browser Built-in
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/📂_View_Repository-FFB300?style=for-the-badge)](https://github.com/nawala-team/sanchala-os)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🔐 Nawala Gateway
-
-**Enterprise API Gateway**
-
-<p>
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-✨ **Key Features:**
-- 🛡️ Web Application Firewall
-- 🔐 OAuth2 & JWT Auth
-- ⚡ Rate Limiting & Throttling
-- 🔍 AI Anomaly Detection
-- 🔒 AES-256-GCM Encryption
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/📂_View_Repository-7c3aed?style=for-the-badge)](https://github.com/nawala-team/nawala-gateway-platform)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🛡️ Raksha Security
-
-**Security Monitoring Platform**
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-✨ **Key Features:**
-- 📋 CIS, NIST, PCI-DSS Compliance
-- 🤖 ML Threat Detection
-- 🔗 SIEM Integration
-- 🌑 Dark Web Monitoring
-- 🍯 Honeypot System
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/📂_View_Repository-00d4ff?style=for-the-badge)](https://github.com/nawala-team/raksha-security-platform)
-
-</td>
-</tr>
-</table>
+  <a href="https://github.com/nawala-team/sanchala-os">
+    <img src="https://img.shields.io/badge/💻_Sanchala_OS-v1.0_Astra-FFB300?style=flat-square"/>
+  </a>
+  <a href="https://github.com/nawala-team/nawala-gateway-platform">
+    <img src="https://img.shields.io/badge/🔐_Nawala_Gateway-API_Platform-7c3aed?style=flat-square"/>
+  </a>
+  <a href="https://github.com/nawala-team/raksha-security-platform">
+    <img src="https://img.shields.io/badge/🛡️_Raksha_Security-SIEM_Platform-00d4ff?style=flat-square"/>
+  </a>
 </div>
 
 <br/>
