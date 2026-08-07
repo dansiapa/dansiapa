@@ -55,14 +55,65 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <br/>
 
+<!-- NAWALA Ecosystem Banner -->
+<div align="center">
+  
+```
+╭─────────────────────────────────────────────────────────────────────────╮
+│                                                                         │
+│                        NAWALA ECOSYSTEM                                 │
+│              Sanskrit-inspired Modern Infrastructure                    │
+│                                                                         │
+│    ┌───────────────┐   ┌───────────────┐   ┌───────────────┐           │
+│    │   SANCHALA    │   │    NAWALA     │   │    RAKSHA     │           │
+│    │      OS       │   │    Gateway    │   │   Security    │           │
+│    │     संञ्चल     │   │      नवल      │   │     रक्षा     │           │
+│    └───────────────┘   └───────────────┘   └───────────────┘           │
+│                                                                         │
+╰─────────────────────────────────────────────────────────────────────────╯
+```
+
+[![NAWALA Team](https://img.shields.io/badge/🏢_NAWALA_TEAM-Organization-gold?style=for-the-badge)](https://github.com/nawala-team)
+
+</div>
+
+<br/>
+
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-### 🔐 Nawala Gateway Platform
+### 💻 Sanchala OS
 
-**Enterprise API Gateway & Management Platform**
+**v1.0 "Astra" ⚡**
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KDE_Plasma_6-1D99F3?style=for-the-badge&logo=kde&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+✨ **Key Features:**
+- 🎨 macOS-inspired UI/UX
+- 🔒 8-layer Security Architecture
+- 📦 100% Linux Compatible
+- 🔄 Btrfs Snapshots & Recovery
+- 🌐 Sanchala Browser Built-in
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/📂_View_Repository-FFB300?style=for-the-badge)](https://github.com/nawala-team/sanchala-os)
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🔐 Nawala Gateway
+
+**Enterprise API Gateway**
 
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -74,22 +125,22 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 </p>
 
 ✨ **Key Features:**
-- 🛡️ Web Application Firewall (WAF)
-- 🔐 OAuth2 & JWT Authentication
+- 🛡️ Web Application Firewall
+- 🔐 OAuth2 & JWT Auth
 - ⚡ Rate Limiting & Throttling
-- 🔍 AI-powered Anomaly Detection
+- 🔍 AI Anomaly Detection
 - 🔒 AES-256-GCM Encryption
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/📂_View_Repository-7c3aed?style=for-the-badge)](https://github.com/dansiapa/nawala-gateway-platform)
+[![View Project](https://img.shields.io/badge/📂_View_Repository-7c3aed?style=for-the-badge)](https://github.com/nawala-team/nawala-gateway-platform)
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-### 🛡️ Raksha Security Platform
+### 🛡️ Raksha Security
 
-**Enterprise Security Monitoring Platform**
+**Security Monitoring Platform**
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -101,15 +152,15 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 </p>
 
 ✨ **Key Features:**
-- 📋 Compliance (CIS, NIST, PCI-DSS)
-- 🤖 ML-powered Threat Detection
+- 📋 CIS, NIST, PCI-DSS Compliance
+- 🤖 ML Threat Detection
 - 🔗 SIEM Integration
 - 🌑 Dark Web Monitoring
-- 🍯 Honeypot & Deception System
+- 🍯 Honeypot System
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/📂_View_Repository-00d4ff?style=for-the-badge)](https://github.com/dansiapa/raksha-security-platform)
+[![View Project](https://img.shields.io/badge/📂_View_Repository-00d4ff?style=for-the-badge)](https://github.com/nawala-team/raksha-security-platform)
 
 </td>
 </tr>
