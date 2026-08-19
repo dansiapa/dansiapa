@@ -1,70 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0f23"/>
-      <stop offset="100%" style="stop-color:#1a1a3e"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FFB300"/>
-      <stop offset="100%" style="stop-color:#FF8F00"/>
-    </linearGradient>
-    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#5b21b6"/>
-    </linearGradient>
-    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d4ff"/>
-      <stop offset="100%" style="stop-color:#0891b2"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#0f0f23"/><stop offset="100%" style="stop-color:#1a1a3e"/></linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#FFB300"/><stop offset="100%" style="stop-color:#FF8F00"/></linearGradient>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#7c3aed"/><stop offset="100%" style="stop-color:#5b21b6"/></linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#00d4ff"/><stop offset="100%" style="stop-color:#0891b2"/></linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#10b981"/><stop offset="100%" style="stop-color:#059669"/></linearGradient>
+    <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#ec4899"/><stop offset="100%" style="stop-color:#be185d"/></linearGradient>
+    <linearGradient id="orange" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#f97316"/><stop offset="100%" style="stop-color:#ea580c"/></linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#3b82f6"/><stop offset="100%" style="stop-color:#2563eb"/></linearGradient>
     <filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="900" height="300" fill="url(#bg)" rx="12"/>
-  <!-- Particles -->
-  <circle cx="80" cy="50" r="2" fill="#7c3aed" opacity="0.5"><animate attributeName="cy" values="50;250;50" dur="6s" repeatCount="indefinite"/></circle>
-  <circle cx="820" cy="250" r="2" fill="#FFB300" opacity="0.5"><animate attributeName="cy" values="250;50;250" dur="7s" repeatCount="indefinite"/></circle>
-  <circle cx="450" cy="280" r="1.5" fill="#00d4ff" opacity="0.5"><animate attributeName="cy" values="280;20;280" dur="5s" repeatCount="indefinite"/></circle>
-  <!-- Title -->
+  <rect width="900" height="520" fill="url(#bg)" rx="12"/>
+  <circle cx="80" cy="50" r="2" fill="#7c3aed" opacity="0.5"><animate attributeName="cy" values="50;470;50" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="820" cy="470" r="2" fill="#FFB300" opacity="0.5"><animate attributeName="cy" values="470;50;470" dur="7s" repeatCount="indefinite"/></circle>
   <text x="450" y="40" text-anchor="middle" fill="#fff" font-family="Arial" font-size="24" font-weight="bold" filter="url(#glow)">NAWALA ECOSYSTEM</text>
-  <text x="450" y="60" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="11">Sanskrit-inspired Modern Infrastructure</text>
-  <!-- Sanchala OS Card -->
+  <text x="450" y="60" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="11">Sanskrit-inspired Modern Infrastructure - 7 Projects</text>
+  <!-- Row 1: Sanchala, Nawala Gateway, Raksha -->
   <g transform="translate(70,80)">
-    <rect width="220" height="190" rx="14" fill="#1e1e3f" stroke="url(#gold)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></rect>
-    <circle cx="110" cy="50" r="28" fill="url(#gold)" opacity="0.15"/>
-    <text x="110" y="58" text-anchor="middle" font-size="28">💻</text>
-    <text x="110" y="95" text-anchor="middle" fill="#FFB300" font-family="Arial" font-size="16" font-weight="bold">Sanchala OS</text>
-    <text x="110" y="115" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">v1.0 "Astra" ⚡</text>
-    <text x="110" y="140" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Beautiful &amp; Secure Linux</text>
-    <text x="110" y="155" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">macOS UI • 8-Layer Security</text>
-    <rect x="25" y="168" width="50" height="16" rx="8" fill="#1793D1" opacity="0.3"/><text x="50" y="179" text-anchor="middle" fill="#1793D1" font-family="Arial" font-size="8">Arch</text>
-    <rect x="85" y="168" width="50" height="16" rx="8" fill="#1D99F3" opacity="0.3"/><text x="110" y="179" text-anchor="middle" fill="#1D99F3" font-family="Arial" font-size="8">KDE</text>
-    <rect x="145" y="168" width="50" height="16" rx="8" fill="#3776AB" opacity="0.3"/><text x="170" y="179" text-anchor="middle" fill="#3776AB" font-family="Arial" font-size="8">Python</text>
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#gold)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#gold)" opacity="0.15"/>
+    <path d="M88,35 h44 v28 h-44 z M100,63 v8 M120,63 v8 M95,71 h30" fill="none" stroke="#FFB300" stroke-width="1.5"/>
+    <text x="110" y="90" text-anchor="middle" fill="#FFB300" font-family="Arial" font-size="15" font-weight="bold">Sanchala OS</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">v2.0 Vajra</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Beautiful and Secure Linux</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">macOS UI - 8-Layer Security</text>
+    <rect x="25" y="158" width="50" height="16" rx="8" fill="#1793D1" opacity="0.3"/><text x="50" y="169" text-anchor="middle" fill="#1793D1" font-family="Arial" font-size="8">Arch</text>
+    <rect x="85" y="158" width="50" height="16" rx="8" fill="#1D99F3" opacity="0.3"/><text x="110" y="169" text-anchor="middle" fill="#1D99F3" font-family="Arial" font-size="8">KDE</text>
+    <rect x="145" y="158" width="50" height="16" rx="8" fill="#3776AB" opacity="0.3"/><text x="170" y="169" text-anchor="middle" fill="#3776AB" font-family="Arial" font-size="8">Python</text>
   </g>
-  <!-- Nawala Gateway Card -->
   <g transform="translate(340,80)">
-    <rect width="220" height="190" rx="14" fill="#1e1e3f" stroke="url(#purple)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="1s"/></rect>
-    <circle cx="110" cy="50" r="28" fill="url(#purple)" opacity="0.15"/>
-    <text x="110" y="58" text-anchor="middle" font-size="28">🔐</text>
-    <text x="110" y="95" text-anchor="middle" fill="#7c3aed" font-family="Arial" font-size="16" font-weight="bold">Nawala Gateway</text>
-    <text x="110" y="115" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">Enterprise API Gateway</text>
-    <text x="110" y="140" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">WAF • OAuth2 • Rate Limiting</text>
-    <text x="110" y="155" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">AI Anomaly • AES-256-GCM</text>
-    <rect x="25" y="168" width="50" height="16" rx="8" fill="#ED8B00" opacity="0.3"/><text x="50" y="179" text-anchor="middle" fill="#ED8B00" font-family="Arial" font-size="8">Java</text>
-    <rect x="85" y="168" width="50" height="16" rx="8" fill="#6DB33F" opacity="0.3"/><text x="110" y="179" text-anchor="middle" fill="#6DB33F" font-family="Arial" font-size="8">Spring</text>
-    <rect x="145" y="168" width="50" height="16" rx="8" fill="#DC382D" opacity="0.3"/><text x="170" y="179" text-anchor="middle" fill="#DC382D" font-family="Arial" font-size="8">Redis</text>
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#purple)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="0.5s"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#purple)" opacity="0.15"/>
+    <path d="M90,30 l20,10 l20,-10 M90,40 l20,10 l20,-10 M90,50 l20,10 l20,-10" fill="none" stroke="#7c3aed" stroke-width="1.5"/>
+    <text x="110" y="90" text-anchor="middle" fill="#7c3aed" font-family="Arial" font-size="15" font-weight="bold">Nawala Gateway</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">Enterprise API Gateway</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">WAF - OAuth2 - Rate Limiting</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">AI Anomaly - AES-256-GCM</text>
+    <rect x="25" y="158" width="50" height="16" rx="8" fill="#ED8B00" opacity="0.3"/><text x="50" y="169" text-anchor="middle" fill="#ED8B00" font-family="Arial" font-size="8">Java</text>
+    <rect x="85" y="158" width="50" height="16" rx="8" fill="#6DB33F" opacity="0.3"/><text x="110" y="169" text-anchor="middle" fill="#6DB33F" font-family="Arial" font-size="8">Spring</text>
+    <rect x="145" y="158" width="50" height="16" rx="8" fill="#DC382D" opacity="0.3"/><text x="170" y="169" text-anchor="middle" fill="#DC382D" font-family="Arial" font-size="8">Redis</text>
   </g>
-  <!-- Raksha Security Card -->
   <g transform="translate(610,80)">
-    <rect width="220" height="190" rx="14" fill="#1e1e3f" stroke="url(#cyan)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="2s"/></rect>
-    <circle cx="110" cy="50" r="28" fill="url(#cyan)" opacity="0.15"/>
-    <text x="110" y="58" text-anchor="middle" font-size="28">🛡️</text>
-    <text x="110" y="95" text-anchor="middle" fill="#00d4ff" font-family="Arial" font-size="16" font-weight="bold">Raksha Security</text>
-    <text x="110" y="115" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">SIEM Platform</text>
-    <text x="110" y="140" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">ML Threat Detection</text>
-    <text x="110" y="155" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">CIS • NIST • PCI-DSS</text>
-    <rect x="25" y="168" width="50" height="16" rx="8" fill="#f74c00" opacity="0.3"/><text x="50" y="179" text-anchor="middle" fill="#f74c00" font-family="Arial" font-size="8">Rust</text>
-    <rect x="85" y="168" width="50" height="16" rx="8" fill="#ffffff" opacity="0.2"/><text x="110" y="179" text-anchor="middle" fill="#fff" font-family="Arial" font-size="8">Next.js</text>
-    <rect x="145" y="168" width="50" height="16" rx="8" fill="#3776AB" opacity="0.3"/><text x="170" y="179" text-anchor="middle" fill="#3776AB" font-family="Arial" font-size="8">Python</text>
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#cyan)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="1s"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#cyan)" opacity="0.15"/>
+    <path d="M110,25 l-20,35 h40 z" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+    <text x="110" y="90" text-anchor="middle" fill="#00d4ff" font-family="Arial" font-size="15" font-weight="bold">Raksha Security</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">SIEM Platform</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">ML Threat Detection</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">CIS - NIST - PCI-DSS</text>
+    <rect x="25" y="158" width="50" height="16" rx="8" fill="#f74c00" opacity="0.3"/><text x="50" y="169" text-anchor="middle" fill="#f74c00" font-family="Arial" font-size="8">Rust</text>
+    <rect x="85" y="158" width="50" height="16" rx="8" fill="#fff" opacity="0.2"/><text x="110" y="169" text-anchor="middle" fill="#fff" font-family="Arial" font-size="8">Next.js</text>
+    <rect x="145" y="158" width="50" height="16" rx="8" fill="#3776AB" opacity="0.3"/><text x="170" y="169" text-anchor="middle" fill="#3776AB" font-family="Arial" font-size="8">Python</text>
+  </g>
+  <!-- Row 2: Suraksha, Rachana, Prahara -->
+  <g transform="translate(70,280)">
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#green)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="1.5s"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#green)" opacity="0.15"/>
+    <rect x="95" y="35" width="30" height="25" rx="3" fill="none" stroke="#10b981" stroke-width="1.5"/>
+    <path d="M100,35 v-5 a10,10 0 0 1 20,0 v5" fill="none" stroke="#10b981" stroke-width="1.5"/>
+    <text x="110" y="90" text-anchor="middle" fill="#10b981" font-family="Arial" font-size="15" font-weight="bold">Suraksha Vault</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">Password Manager</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">AES-256 Encryption</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Auto-Type - Shortcuts</text>
+    <rect x="40" y="158" width="60" height="16" rx="8" fill="#47848F" opacity="0.3"/><text x="70" y="169" text-anchor="middle" fill="#47848F" font-family="Arial" font-size="8">Electron</text>
+    <rect x="110" y="158" width="70" height="16" rx="8" fill="#3178C6" opacity="0.3"/><text x="145" y="169" text-anchor="middle" fill="#3178C6" font-family="Arial" font-size="8">TypeScript</text>
+  </g>
+  <g transform="translate(340,280)">
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#pink)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="2s"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#pink)" opacity="0.15"/>
+    <path d="M95,30 l-15,15 l15,15 M125,30 l15,15 l-15,15" fill="none" stroke="#ec4899" stroke-width="1.5"/>
+    <text x="110" y="90" text-anchor="middle" fill="#ec4899" font-family="Arial" font-size="15" font-weight="bold">Rachana Code</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">Modern Code Editor</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Built for Developers</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Integrated Terminal</text>
+    <rect x="40" y="158" width="60" height="16" rx="8" fill="#47848F" opacity="0.3"/><text x="70" y="169" text-anchor="middle" fill="#47848F" font-family="Arial" font-size="8">Electron</text>
+    <rect x="110" y="158" width="70" height="16" rx="8" fill="#61DAFB" opacity="0.3"/><text x="145" y="169" text-anchor="middle" fill="#61DAFB" font-family="Arial" font-size="8">React</text>
+  </g>
+  <g transform="translate(610,280)">
+    <rect width="220" height="180" rx="14" fill="#1e1e3f" stroke="url(#orange)" stroke-width="2"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" begin="2.5s"/></rect>
+    <circle cx="110" cy="45" r="28" fill="url(#orange)" opacity="0.15"/>
+    <path d="M95,55 v-25 M110,55 v-35 M125,55 v-20" fill="none" stroke="#f97316" stroke-width="4" stroke-linecap="round"/>
+    <text x="110" y="90" text-anchor="middle" fill="#f97316" font-family="Arial" font-size="15" font-weight="bold">Prahara</text>
+    <text x="110" y="108" text-anchor="middle" fill="#fff" font-family="Arial" font-size="10">Observability Platform</text>
+    <text x="110" y="130" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Monitoring and Tracing</text>
+    <text x="110" y="145" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">Real-time Analytics</text>
+    <rect x="25" y="158" width="55" height="16" rx="8" fill="#3178C6" opacity="0.3"/><text x="52" y="169" text-anchor="middle" fill="#3178C6" font-family="Arial" font-size="8">TypeScript</text>
+    <rect x="90" y="158" width="50" height="16" rx="8" fill="#fff" opacity="0.2"/><text x="115" y="169" text-anchor="middle" fill="#fff" font-family="Arial" font-size="8">Next.js</text>
+    <rect x="150" y="158" width="45" height="16" rx="8" fill="#4169E1" opacity="0.3"/><text x="172" y="169" text-anchor="middle" fill="#4169E1" font-family="Arial" font-size="8">PG</text>
+  </g>
+  <!-- Vidya Bot Badge -->
+  <g transform="translate(350,475)">
+    <rect width="200" height="35" rx="17" fill="#1e1e3f" stroke="url(#blue)" stroke-width="1.5"/>
+    <circle cx="30" cy="17" r="10" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+    <circle cx="26" cy="14" r="2" fill="#3b82f6"/>
+    <circle cx="34" cy="14" r="2" fill="#3b82f6"/>
+    <path d="M25,20 h10" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="100" y="22" text-anchor="middle" fill="#3b82f6" font-family="Arial" font-size="12" font-weight="bold">Vidya Bot</text>
+    <text x="165" y="22" text-anchor="middle" fill="#8b8ba7" font-family="Arial" font-size="9">AI Assistant</text>
   </g>
   <!-- Connecting lines -->
-  <path d="M290 175 Q450 120 610 175" stroke="#7c3aed" stroke-width="1" fill="none" opacity="0.2"><animate attributeName="stroke-dasharray" values="0,500;300,500" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M290 170 Q450 130 610 170" stroke="#7c3aed" stroke-width="1" fill="none" opacity="0.2"><animate attributeName="stroke-dasharray" values="0,500;300,500" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M290 370 Q450 330 610 370" stroke="#ec4899" stroke-width="1" fill="none" opacity="0.2"><animate attributeName="stroke-dasharray" values="0,500;300,500" dur="3s" repeatCount="indefinite" begin="1.5s"/></path>
 </svg>
