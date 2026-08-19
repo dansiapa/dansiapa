@@ -22,7 +22,7 @@
 ```yaml
 name: Rangga Putra
 role: Software Developer | Solution Architect | Consultant
-location: Indonesia 🇮🇩
+location: Indonesia
 experience: 5+ Years | 20+ Projects | 4 Companies
 
 summary: |
@@ -42,7 +42,7 @@ currently_learning:
   - Microservices Patterns
   - AI/ML Integration for Security
 
-fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
+fun_fact: "I debug with coffee and solve problems in my sleep"
 ```
 
 <br/>
@@ -194,7 +194,7 @@ fun_fact: "I debug with coffee ☕ and solve problems in my sleep 💤"
 
 <div align="center">
   <a href="https://dansiapa.github.io/portofolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-7c3aed?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio_Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/dansiapa">
